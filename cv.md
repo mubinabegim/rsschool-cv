@@ -47,7 +47,7 @@ function noSpace(x){
  * [Uzbekcoders](http://uzbekcoders.uz/) (completed)
  * [Robocode IT Academy](https://www.robocode.uz/) (basic)
  * [iCode Academy](https://www.facebook.com/icodeacademyuz3/) (completed)
- * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+ * RS Schools Course « JavaScript/Front-end 2022Q3» (in progress)
 ****
 ## Languages:
   * Uzbek - Native
