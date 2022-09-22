@@ -19,6 +19,15 @@
     padding: 1.5rem 2rem;
     background-color: #ffa68f;
 }
+.for-avatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.for-avatar img{
+    width:55%;
+    border-radius:50%;
+}
 .about_me p{
     margin: .5rem 0;
 }
@@ -105,4 +114,31 @@
 .education ul li i{
     font-size: 2rem;
     color:#ffa68f
+}
+.project_list li{
+list-style:none;
+}
+.project_list li p{
+    color:#ffa68f;
+    margin:0;
+    padding-top: .5rem
+    
+}
+.project_list li a{
+    text-decoration: none;
+    color:#757272;
+}
+.hobby-interest{
+    background-color:#ffa68f;
+    border-radius: 4rem;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 70%;
+    text-align: center;
+}
+.hobby-interest .last-head{
+    text-transform: uppercase;
+    font-weight: 600;
+    color:white;
+    
 }
