@@ -68,19 +68,7 @@
 .most_used_lang .head{
     font-size: 1.3rem;
 }
-.circle{
-    width: 1rem;
-    height: 1rem;
-    border-radius:50%;
-}
-.result{
-    display:flex;
-    gap: .5rem;
-    align-items: center;
-}
-.result span{
-    font-size: .9rem;
-}
+
 .my_name{
     width: 70%;
     border-radius:5rem;
@@ -142,7 +130,7 @@ list-style:none;
     color:white;
     
 }
-.progress-bar:first-child{
+/* .progress-bar:first-child{
     width: 43.38%;  
 }
 .progress-bar:nth-child(2){
@@ -150,7 +138,7 @@ list-style:none;
 }
 .progress-bar:last-child{
     width: 17.18%
-}
+} */
 .for-code__text{
     font-family:monospace;
 }
