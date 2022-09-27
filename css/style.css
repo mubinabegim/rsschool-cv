@@ -142,3 +142,18 @@ list-style:none;
     color:white;
     
 }
+.progress-bar:first-child{
+    width: 43.38%;  
+}
+.progress-bar:nth-child(2){
+    width: 39.43%
+}
+.progress-bar:last-child{
+    width: 17.18%
+}
+.for-code__text{
+    font-family:monospace;
+}
+.blue{
+    color:blue;
+}
